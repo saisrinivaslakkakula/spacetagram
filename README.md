@@ -1,28 +1,29 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL:  
 
-Find the deployment URL here ()
+This Sample webpage is created as part of online assessment fot the Front-End Engineering Intern role with Shopify.
+The application covers below features:
+- Query in the Nasa's API and fetch top 1000 Mars Rover Images .
+- Open Image link in new Tab
+- Add liked image to the liked List and remove the same when un necessary.
 
-Features:
-1. View Random 10 astronomy pictures with dates taken and facts explained (PS: Scroll the explanation part to view full details) in swipeable manner.
-2. Shuffle the images.
-3. Copy image link to share with friends.
-4. View individual image in a new tab.
-5. Loading is implemented if the data from the API is not yet available.
-6. Like and Unlike the images. (PS: Doesn't persist upon page refresh)
+## Instructions to run the app
 
-## Available Scripts
+ - Download the application in Zip format or Clone the repository using git clone.
+ - unzip the cloned/downloaded zip file
+ - in the project root, run the below command
 
-In the project directory, you can run:
+### `npm install`
+ - The above command installs the necessary node modules in the project root directory
+ - Run the application using the below command
 
-### `npm start`
+### `npm run`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- The above command runs the app in the development mode.
+- The command should automatically open the page in your default browser. otherwise you can navigate to the url below.
+    [http://localhost:3000](http://localhost:3000)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
